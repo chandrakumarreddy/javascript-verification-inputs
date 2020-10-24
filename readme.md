@@ -1,6 +1,6 @@
 #### javascript-verification-inputs
 
-1. Handle fous properly
+1. Handle focus properly
 1. Handle pastes properly
 
 Assignments
