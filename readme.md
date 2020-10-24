@@ -3,6 +3,8 @@
 1. Handle focus properly
 1. Handle pastes properly
 
+![alt text](https://raw.githubusercontent.com/chandrakumarreddy/javascript-verification-inputs-/master/preview.png)
+
 Assignments
 
 1. select the text when the next input is focued ✅
